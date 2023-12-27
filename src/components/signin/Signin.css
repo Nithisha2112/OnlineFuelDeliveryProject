@@ -1,0 +1,12 @@
+
+
+.signinbg{
+    background-image: url(https://img.freepik.com/free-photo/vivid-blurred-colorful-wallpaper-background_58702-2874.jpg?size=626&ext=jpg&ga=GA1.1.1546980028.1702598400&semt=ais);
+    height: 90vh;
+    max-width: 100%;
+    flex-wrap: wrap;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}

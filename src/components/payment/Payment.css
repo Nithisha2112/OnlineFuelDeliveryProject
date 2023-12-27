@@ -1,0 +1,14 @@
+.paymentbg{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHPybwE6aMS2c_asBZtvEOdmizzVm1lhQV5IIs--3eXKtT2QztOWsSfUvEobmWVp3JBI8&usqp=CAU);
+  height: 100vh;
+  max-width: 100%;
+  flex-wrap: wrap;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+body {
+    margin: 0;
+    padding: 0;
+  }
+  

@@ -1,0 +1,11 @@
+.signupbg{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWM_Gkqg6J-4YLLIPXzaQDnjRj7u-agSVq7wx8w8TYFqNF5zVQ0yS8etsoVJ-2m9-fiVs&usqp=CAU);
+    height: 90vh;
+    max-width: 100%;
+    flex-wrap: wrap;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+    
+}

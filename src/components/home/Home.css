@@ -1,0 +1,37 @@
+/* Home.css */
+
+.home {
+    background-image: url(https://www.foodchow.com/blog/wp-content/uploads/2020/07/359-1160x653.jpg);
+    height: 100vh;
+    max-width: 100%;
+  
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start; /* Align content to the left */
+    flex-direction: column;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat; 
+    
+}
+
+.header {
+    width: auto;
+    margin-left: 30px;
+    margin-top: 70px; /* Adjust this value to move content slightly up */
+}
+
+.home .header h1 {
+    justify-content: center;
+    align-items: center;   
+}
+
+.home .header p {
+    margin-top: 10px;  
+    padding: 0;
+    
+}
+
+.home .header .mybtn {
+    margin-top: 10px;
+}
